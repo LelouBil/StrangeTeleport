@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "strangeteleport:block/link_block" }
+  }
+}

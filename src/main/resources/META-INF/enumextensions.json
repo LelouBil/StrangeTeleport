@@ -1,0 +1,10 @@
+{
+  "entries": [
+    {
+      "enum": "net/minecraft/world/item/ItemDisplayContext",
+      "name": "STRANGETELEPORT_GHOST_BLOCK",
+      "constructor": "(ILjava/lang/String;Ljava/lang/String;)V",
+      "parameters": [ -1, "strangeteleport:ghost_block_context", null ]
+    }
+  ]
+}

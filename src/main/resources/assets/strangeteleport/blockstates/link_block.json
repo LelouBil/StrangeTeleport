@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "strangeteleport:block/link_block" },
+    "facing=east": { "model": "strangeteleport:block/link_block", "y": 90 },
+    "facing=south": { "model": "strangeteleport:block/link_block", "y": 180 },
+    "facing=west": { "model": "strangeteleport:block/link_block", "y": 270 }
+  }
+}
